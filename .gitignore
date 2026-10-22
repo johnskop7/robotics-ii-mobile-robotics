@@ -1,0 +1,18 @@
+# Catkin and ROS runtime files
+build/
+devel/
+install/
+logs/
+.catkin_tools/
+*.bag
+*.bag.active
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.DS_Store
+# Generated localization plots
+state.png
+Positions.png
