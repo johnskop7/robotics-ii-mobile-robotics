@@ -1,0 +1,80 @@
+{
+  "note": "Hashes refer to unchanged copied files. Modified integration files and new documentation are described in implementation-notes.md. The duplicate Part A appendix was omitted.",
+  "files": [
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Project-robotics_II-2023-mobile_partA.pdf",
+      "destination": "docs/part-a/handout.pdf",
+      "sha256": "806cb5b8211cf078b0a07d4cbac56d50acce068343edccbd1f2ece9319433575"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Appendix-robotics_II-ros_and_mobile_partA.pdf",
+      "destination": "docs/part-a/appendix.pdf",
+      "sha256": "2cc978a5ab5e8687c9e0470e26351f579eed69da1277ac3cf1467ab9121d7143"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Project-robotics_II-2023-mobile_partB.pdf",
+      "destination": "docs/part-b/handout.pdf",
+      "sha256": "20a1d246e201b748b626b11a20128dddae426f96c876d9629445d7f1ab2e5433"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/Appendix-robotics_II-ros_and_mobile_partB.pdf",
+      "destination": "docs/part-b/appendix.pdf",
+      "sha256": "8fa10f9500ab9f57707269ea5ef4ed58998ba66ff9cbe8b0abcf5e7973bcee6e"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/report.pdf",
+      "destination": "docs/part-b/report.pdf",
+      "sha256": "14b01674e4cbd45eaaa4d1df425ee39ac7410dbf716c2b7361198cc50468c07b"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Supplemental_material_partA/robo2_mobile/scripts/follower.py",
+      "destination": "ros/robo2_mobile/scripts/follower.py",
+      "sha256": "841bd87931729d0fd61aa322fe275cea4c4dd0c5f6b992b55e0cd67cfbbe0a36"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/script.py",
+      "destination": "ros/robo2_mobile/scripts/localization.py",
+      "sha256": "0db467c01ab7d1973ab62f39f216ab28890b87755cc8d8cdb99a4b2f247ca975"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/random_walker.cpp",
+      "destination": "ros/robo2_mobile/src/random_walker.cpp",
+      "sha256": "0768a0d1124f195c7ac110b73d1aa50b559660cba8d8f28997bfc127477f749b"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Supplemental_material_partA/robo2_mobile/launch/mobile_partA.launch",
+      "destination": "ros/robo2_mobile/launch/mobile_partA.launch",
+      "sha256": "20d66b27e3d95f8b15199b87b87b338c0f96faab84830122b838ba9028ecc1ad"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/random_walk.launch",
+      "destination": "ros/robo2_mobile/launch/random_walk.launch",
+      "sha256": "b499cc781d2c0150b54f47a47cefcc5cf31b854ec39060289504761ad0946b49"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/mymobibot_loc.world",
+      "destination": "ros/robo2_mobile/worlds/mymobibot_loc.world",
+      "sha256": "6d3608877937fa941cc4dd2f41524b7527c91ce195728b9548edaab63e16cf71"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Supplemental_material_partA/robo2_mobile/CMakeLists.txt",
+      "destination": "reference/original-integration/part-a/CMakeLists.txt",
+      "sha256": "e4cabc1486571fdb441cc629060d13177a9546eedf73e1e10eeba292ec6403cf"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ-Μέρος Α'/Supplemental_material_partA/robo2_mobile/package.xml",
+      "destination": "reference/original-integration/part-a/package.xml",
+      "sha256": "585bbfe9bff6fcbe66fd0cdb35384bb1796ecdae3eb9de34ba56c6b3aadbcca7"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/CMakeLists.txt",
+      "destination": "reference/original-integration/part-b/CMakeLists.txt",
+      "sha256": "266b426c2953e60d9e72937ab8cfbaf8bf0ef81b5e174b0be46de27f0df3a5aa"
+    },
+    {
+      "source": "Εξαμηνιαία Εργασία ΙΙ- Μέρος Β'/Supplemental_material_partB/mymobibot_world_loc.launch",
+      "destination": "reference/original-integration/part-b/mymobibot_world_loc.launch",
+      "sha256": "5bf127b7dfadb88c603654a86c5d8114235a78bc2e674dace20e051eb9d4570c"
+    }
+  ]
+}
