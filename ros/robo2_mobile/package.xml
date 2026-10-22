@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robo2_mobile</name>
+  <version>0.1.0</version>
+  <description>Robotics II coursework: wall-following template and mobile robot localization with IMU and sonar data.</description>
+  <maintainer email="giannislitsos@gmail.com">Ioannis Litsos</maintainer>
+  <author>Ioannis Litsos</author>
+  <author>Nikolaos Benetos</author>
+  <license>License not specified; see repository NOTICE.md</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>roslib</depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-matplotlib</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>xacro</exec_depend>
+  <exec_depend>mymobibot_description</exec_depend>
+  <exec_depend>mymobibot_control</exec_depend>
+  <exec_depend>mymobibot_gazebo</exec_depend>
+  <export/>
+</package>

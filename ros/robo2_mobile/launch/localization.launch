@@ -1,0 +1,5 @@
+<launch>
+  <arg name="rate" default="100"/>
+  <param name="rate" value="$(arg rate)"/>
+  <node name="localization" pkg="robo2_mobile" type="localization.py" output="screen" cwd="ROS_HOME"/>
+</launch>
